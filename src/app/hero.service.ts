@@ -6,7 +6,7 @@ import { Observable, of } from 'rxjs';
 
 
 
-@Injectable({
+@Injectable({ 
   providedIn: 'root'
 })
 
